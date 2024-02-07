@@ -1,0 +1,98 @@
+@media screen and (max-width: 800px) {
+    .a {
+        font-size: 15px;
+    }
+.con{
+    height: 490vh;
+}
+    .name {
+        font-size: 30px;
+        width: 100px;
+        font-family: sans-serif;
+    }
+
+    .About {
+        width: 20%;
+        font-family: sans-serif;
+        font-size: 20px;
+        margin-left: 100px;
+
+    }
+
+    .lan {
+        transform: rotate(90deg);
+        font-family: sans-serif;
+        font-size: 10px;
+    }
+
+    span {
+        color: gray;
+    }
+
+    .p {
+        width: 70%;
+    }
+
+    .tabout {
+        height: 400px;
+    }
+    .portfolio{
+     width: 100%;
+     height: 2600px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .a {
+        font-size: 8px;
+    }
+
+    .hr {
+        height: 1px;
+    }
+
+    .name {
+        font-size: 20px;
+        width: 100px;
+        font-family: sans-serif;
+    }
+
+    .About {
+        width: 20%;
+        font-family: sans-serif;
+        font-size: 10px;
+        margin-left: 0px;
+    }
+
+    .lan {
+        transform: rotate(90deg);
+        font-family: sans-serif;
+        font-size: 6px;
+    }
+
+    span {
+        color: gray;
+    }
+
+    .p {
+        width: 80%;
+        font-size: 13px;
+    }
+
+    .tabout {
+        height: 350px;
+    }
+    .card{
+        margin-left: 30px;
+    }
+    iframe{
+        width: 300px;
+    }
+    .con{
+        width: 100%;
+    height: 685vh;
+    }
+    .im{
+        width: 50px;
+    }
+}
